@@ -28,7 +28,26 @@ TBD
 | ------- | -------- | --------- |
 
 <!--- advent_readme_stars table --->
+## 2018 Results
 
+| Day | Part 1 | Part 2 |
+| :---: | :---: | :---: |
+| [Day 1](https://adventofcode.com/2018/day/1) | ⭐ | ⭐ |
+| [Day 2](https://adventofcode.com/2018/day/2) | ⭐ | ⭐ |
+| [Day 3](https://adventofcode.com/2018/day/3) | ⭐ | ⭐ |
+| [Day 4](https://adventofcode.com/2018/day/4) | ⭐ | ⭐ |
+| [Day 5](https://adventofcode.com/2018/day/5) | ⭐ | ⭐ |
+| [Day 6](https://adventofcode.com/2018/day/6) | ⭐ | ⭐ |
+| [Day 7](https://adventofcode.com/2018/day/7) | ⭐ | ⭐ |
+| [Day 8](https://adventofcode.com/2018/day/8) | ⭐ | ⭐ |
+| [Day 9](https://adventofcode.com/2018/day/9) | ⭐ | ⭐ |
+| [Day 10](https://adventofcode.com/2018/day/10) | ⭐ | ⭐ |
+| [Day 11](https://adventofcode.com/2018/day/11) | ⭐ | ⭐ |
+| [Day 12](https://adventofcode.com/2018/day/12) | ⭐ | ⭐ |
+| [Day 13](https://adventofcode.com/2018/day/13) | ⭐ | ⭐ |
+| [Day 14](https://adventofcode.com/2018/day/14) | ⭐ | ⭐ |
+| [Day 16](https://adventofcode.com/2018/day/16) | ⭐ | ⭐ |
+| [Day 18](https://adventofcode.com/2018/day/18) | ⭐ | ⭐ |
 <!--- advent_readme_stars table --->
 
 ## Other
