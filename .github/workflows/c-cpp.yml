@@ -13,11 +13,13 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
-    - name: configure
-      run: ./configure
+    - name: get inputs
+      run: |
+        for i in {1..25}; do ./get_input.sh $i; done
+      env:
+          AOC_SESSION: ${{ secrets.AOC_SESSION }}
     - name: make
       run: make
-    - name: make check
-      run: make check
-    - name: make distcheck
-      run: make distcheck
+    - name: run
+      run: |
+        ./d01.out < test/resources/day01.in
