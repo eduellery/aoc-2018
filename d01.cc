@@ -1,12 +1,15 @@
 #include <iostream>
+#include <iterator>
 #include <vector>
 #include <unordered_set>
+#include <cstdint>
 
 using namespace std;
 using ll = int64_t;
 
 int main() {
-  vector<ll> data{istream_iterator<ll>{cin}, {}};
+  istream_iterator<ll> itBegin(cin), itEnd;
+  vector<ll> data(itBegin, itEnd);
   ll result = 0, result1 = 0, result2 = 0;
   bool part1 = false, part2 = false;
   unordered_set<ll> my_set;
